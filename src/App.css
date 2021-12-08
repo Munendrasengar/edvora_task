@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* color: white; */
+   
+}
+
+
+body{
+    background-color: rgb(37, 35, 35)
+}
+
+
+
+  
+.card-s{
+  width: 100%;
+  margin: 10px ;
+  color: white;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  grid-gap: 20px;}
+  
+  
+ 
